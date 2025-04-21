@@ -6,7 +6,7 @@
 import requests
 from datetime import datetime, timedelta
 
-API_KEY = 'your_skyscanner_api_key'  # Replace with your real key
+API_KEY = 'skyscanner89.p.rapidapi.com'  # Replace with your real key
 ORIGIN = 'LEX-sky'
 DESTINATION = 'CHI-sky'
 PRICE_THRESHOLD = 250
