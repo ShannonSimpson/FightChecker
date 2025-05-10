@@ -1,4 +1,5 @@
 import time
+import requests
 
 API_KEY = 'your_skyscanner_api_key'  # Replace with your actual API key
 ORIGIN = 'LEX-sky'  # Lexington, KY
