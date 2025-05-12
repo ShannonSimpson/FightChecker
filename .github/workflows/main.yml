@@ -28,4 +28,5 @@ jobs:
           YOUR_EMAIL: ${{ secrets.YOUR_EMAIL }}
           DEST_EMAIL: ${{ secrets.DEST_EMAIL }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
-        run: python alert_if_cheap.py
+        #run: python alert_if_cheap.py
+        run: python check_flights.py
